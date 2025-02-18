@@ -26,4 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shihab066&show_icons=true&locale=en&layout=compact" alt="Shihab066" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shihab066&show_icons=true&locale=en" alt="Shihab066" /></p>
-<p><img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Shihab066"></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shihab066)](https://git.io/streak-stats)
