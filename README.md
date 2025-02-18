@@ -23,8 +23,8 @@
 <br>  
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shihab066&show_icons=true&locale=en&layout=compact" alt="Shihab066" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shihab066&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Shihab066's GitHub Stats" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shihab066&show_icons=true&locale=en" alt="Shihab066" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shihab066&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Shihab066's GitHub Stats" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats-bice-one.vercel.app?user=Shihab066)](https://git.io/streak-stats)
